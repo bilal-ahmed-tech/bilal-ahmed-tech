@@ -16,11 +16,15 @@ Currently open to freelance projects.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
+
+### [Bloom Bakery](https://github.com/bilal-ahmed-tech/bloom-bakery)
+Full-stack e-commerce bakery platform — Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Sanity CMS, NextAuth.js. Stripe payment processing, admin dashboard, order management, coupon system, product catalog, and revenue analytics.
 
 ### [TaskFlow](https://taskflow-app-gray.vercel.app/)
 Full-stack project management SaaS — Next.js, TypeScript, Prisma, PostgreSQL, NextAuth.js.
@@ -49,14 +53,14 @@ High-end restaurant landing page — Bootstrap, Vanilla JS, glassmorphism navbar
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bilal-ahmed-tech&theme=default&hide_border=true)
 
+
 ---
 
 ## 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalahmed-web)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bilal-ahmed-portfolio-beige.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bilal-ahmed-portfolio-beige.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bilalahmed19015@gmail.com)
-
 ---
 
 *Open to freelance work — feel free to reach out.*
